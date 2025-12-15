@@ -139,9 +139,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author
 
-GitHub: https://github.com/your-handle
-Public contact (email): your-name@proton.me
-Public contact (X): https://x.com/your-handle
+GitHub: https://github.com/vlasovbogdan
+Public contact (email): studied-02soprano@icloud.com
+Public contact (X): https://x.com/vlasovvbogdan
 
 ## References
 
@@ -157,8 +157,11 @@ A smart contract has been deployed to the Base Sepolia test network for validati
 Network: Base Sepolia
 chainId (decimal): 84532
 Explorer: https://sepolia.basescan.org
-Deployed contract address: 0xYOUR_CONTRACT_ADDRESS
+Deployed contract addresses: 0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
+0x25075f33403dd1a80c52050409a330b50197c223
 Basescan deployment and verification links:
-Contract address: https://sepolia.basescan.org/address/0xYOUR_CONTRACT_ADDRESS
-Contract verification (source code): https://sepolia.basescan.org/0xYOUR_CONTRACT_ADDRESS/0#code
+Contract1 address: https://sepolia.basescan.org/address/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
+Contract2 address: https://sepolia.basescan.org/address/0x25075f33403dd1a80c52050409a330b50197c223
+Contract1 verification (source code): https://sepolia.basescan.org/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7/0#code
+Contract2 verification (source code): https://sepolia.basescan.org/0x25075f33403dd1a80c52050409a330b50197c223/0#code
 This deployment is used to validate Base-compatible tooling, account abstraction flows, and onchain read operations in a test environment prior to mainnet usage.
