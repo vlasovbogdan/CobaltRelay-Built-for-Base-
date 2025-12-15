@@ -157,8 +157,7 @@ A smart contract has been deployed to the Base Sepolia test network for validati
 Network: Base Sepolia
 chainId (decimal): 84532
 Explorer: https://sepolia.basescan.org
-Deployed contract addresses: 0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
-0x25075f33403dd1a80c52050409a330b50197c223
+Deployed contract addresses: 0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7 and 0x25075f33403dd1a80c52050409a330b50197c223
 Basescan deployment and verification links:
 Contract "Arrays" address: https://sepolia.basescan.org/address/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
 Contract "Structs" address: https://sepolia.basescan.org/address/0x25075f33403dd1a80c52050409a330b50197c223
