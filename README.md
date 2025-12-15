@@ -160,8 +160,9 @@ Explorer: https://sepolia.basescan.org
 Deployed contract addresses: 0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
 0x25075f33403dd1a80c52050409a330b50197c223
 Basescan deployment and verification links:
-Contract1 address: https://sepolia.basescan.org/address/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
-Contract2 address: https://sepolia.basescan.org/address/0x25075f33403dd1a80c52050409a330b50197c223
-Contract1 verification (source code): https://sepolia.basescan.org/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7/0#code
-Contract2 verification (source code): https://sepolia.basescan.org/0x25075f33403dd1a80c52050409a330b50197c223/0#code
+Contract "Arrays" address: https://sepolia.basescan.org/address/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7
+Contract "Structs" address: https://sepolia.basescan.org/address/0x25075f33403dd1a80c52050409a330b50197c223
+Contract "Arrays" verification (source code): https://sepolia.basescan.org/0x43cacbbd419e73eadb8521cf5e99d6bca5c350e7/0#code
+Contract "Structs" verification (source code): https://sepolia.basescan.org/0x25075f33403dd1a80c52050409a330b50197c223/0#code
+
 This deployment is used to validate Base-compatible tooling, account abstraction flows, and onchain read operations in a test environment prior to mainnet usage.
